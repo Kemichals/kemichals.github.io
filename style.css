@@ -194,7 +194,8 @@ html{
     color: white;
     text-decoration: none;
     letter-spacing: 0.6rem;
-	background-color: rgba(245, 30, 30, 0.534);
+    background-color: rgba(245, 30, 30, 0.534);
+    margin-bottom: 2rem;
 	
 
 }
